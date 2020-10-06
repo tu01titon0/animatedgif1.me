@@ -1,0 +1,7 @@
+one:
+  user: one
+  image_data: '<%= TestData.image_data %>'
+
+two:
+  user: two
+  image_data: '<%= TestData.image_data %>'
