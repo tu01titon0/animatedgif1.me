@@ -2,10 +2,10 @@ default: &default
   adapter: mysql2
   encoding: utf8
   pool: 5
-  username: animategif1
 
 development:
   <<: *default
+  username: animategif1
   database: animategif1_development
 
 test:
